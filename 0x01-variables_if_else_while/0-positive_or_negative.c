@@ -13,9 +13,9 @@ int main(void)
 	if(n % 2 == 0) {
 	  printf("%d is zero", n);
 	} else if(n % 2 > 0) {
-	  printf("%n is positive", n);
+	  printf("%d is positive", n);
 	} else {
-	  printf("%n is negative", n);
+	  printf("%d is negative", n);
 	}
 	return (0);
 }
