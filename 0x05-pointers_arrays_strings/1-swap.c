@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * swap_int: a function that swap the values of two variables
- * @a: a variable to be swaped
- * @b: a variable to be swaped
+ * swap_int - swaps the values of two integers
+ * @a: integer to swap
+ * @b: integer to swap
  */
 
 void swap_int(int *a, int *b)
